@@ -416,7 +416,7 @@ const arr=[
     },
     {
       "collegeName": "National Institute of Technology Rourkela",
-      "logoLink":"https://doe.iitm.ac.in/wp-content/uploads/2021/06/245-2451831_iit-madras-logo.png",
+      "logoLink":"https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/NIT_Rourkela_Colour_Logo.svg/800px-NIT_Rourkela_Colour_Logo.svg.png",
       
       "location": {
         "city": "Rourkela",
@@ -449,7 +449,7 @@ const arr=[
     },
     {
       "collegeName": "National Institute of Technology Warangal",
-      "logoLink":"https://doe.iitm.ac.in/wp-content/uploads/2021/06/245-2451831_iit-madras-logo.png",
+      "logoLink":"https://upload.wikimedia.org/wikipedia/en/f/fb/National_Institute_of_Technology%2C_Warangal_logo.png",
       
       "location": {
         "city": "Warangal",
@@ -482,7 +482,7 @@ const arr=[
     },
     {
       "collegeName": "Indian Institute of Technology (ISM) Dhanbad",
-      "logoLink":"https://doe.iitm.ac.in/wp-content/uploads/2021/06/245-2451831_iit-madras-logo.png",
+      "logoLink":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOaT3ljuUSjqpnzz9KSiRxVmtkHqlDsNvwFg&s",
       "location": {
         "city": "Dhanbad",
         "state": "Jharkhand",
@@ -514,7 +514,7 @@ const arr=[
     },
     {
       "collegeName": "Amrita Vishwa Vidyapeetham",
-      "logoLink":"https://doe.iitm.ac.in/wp-content/uploads/2021/06/245-2451831_iit-madras-logo.png",
+      "logoLink":"https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Amrita_Vishwa_Vidyapeetham_-_Logo_Icon.svg/1200px-Amrita_Vishwa_Vidyapeetham_-_Logo_Icon.svg.png",
       
       "location": {
         "city": "Coimbatore",
@@ -547,7 +547,7 @@ const arr=[
     },
     {
       "collegeName": "Thapar Institute of Engineering and Technology",
-      "logoLink":"https://doe.iitm.ac.in/wp-content/uploads/2021/06/245-2451831_iit-madras-logo.png",
+      "logoLink":"https://upload.wikimedia.org/wikipedia/en/9/9b/Thapar_Institute_of_Engineering_and_Technology_University_logo.png",
       
       "location": {
         "city": "Patiala",
@@ -580,7 +580,7 @@ const arr=[
     },
     {
       "collegeName": "Birla Institute of Technology and Science, Pilani",
-      "logoLink":"https://doe.iitm.ac.in/wp-content/uploads/2021/06/245-2451831_iit-madras-logo.png",
+      "logoLink":"https://upload.wikimedia.org/wikipedia/en/d/d3/BITS_Pilani-Logo.svg",
       
       "location": {
         "city": "Pilani",
@@ -613,7 +613,7 @@ const arr=[
     },
     {
       "collegeName": "Anna University",
-      "logoLink":"https://doe.iitm.ac.in/wp-content/uploads/2021/06/245-2451831_iit-madras-logo.png",
+      "logoLink":"https://upload.wikimedia.org/wikipedia/en/4/49/Anna_University_Logo.svg",
       
       "location": {
         "city": "Chennai",
@@ -646,7 +646,7 @@ const arr=[
     },
     {
       "collegeName": "Indian Institute of Information Technology, Allahabad",
-      "logoLink":"https://doe.iitm.ac.in/wp-content/uploads/2021/06/245-2451831_iit-madras-logo.png",
+      "logoLink":"https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/Indian_Institute_of_Information_Technology%2C_Allahabad_Logo.png/220px-Indian_Institute_of_Information_Technology%2C_Allahabad_Logo.png",
       
       "location": {
         "city": "Prayagraj",
@@ -679,7 +679,7 @@ const arr=[
     },
     {
       "collegeName": "Indian Institute of Technology Bhubaneswar",
-      "logoLink":"https://doe.iitm.ac.in/wp-content/uploads/2021/06/245-2451831_iit-madras-logo.png",
+      "logoLink":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgamujDFgHVmfMjMNUqyGKcwDZ897YDy7I1A&s",
       
       "location": {
         "city": "Bhubaneswar",
@@ -712,7 +712,7 @@ const arr=[
     },
     {
       "collegeName": "National Institute of Technology Calicut",
-      "logoLink":"https://doe.iitm.ac.in/wp-content/uploads/2021/06/245-2451831_iit-madras-logo.png",
+      "logoLink":"https://upload.wikimedia.org/wikipedia/en/a/ae/Correct_Logo_of_NIT_Calicut.svg",
       
       "location": {
         "city": "Calicut",
@@ -745,7 +745,7 @@ const arr=[
     },
     {
       "collegeName": "Jadavpur University",
-      "logoLink":"https://doe.iitm.ac.in/wp-content/uploads/2021/06/245-2451831_iit-madras-logo.png",
+      "logoLink":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR14lkQKvXMplm-Te9lIC-TaVx2z5FM4e6cFg&s",
       
       "location": {
         "city": "Kolkata",
@@ -778,7 +778,7 @@ const arr=[
     },
     {
       "collegeName": "Indian Institute of Technology Mandi",
-      "logoLink":"https://doe.iitm.ac.in/wp-content/uploads/2021/06/245-2451831_iit-madras-logo.png",
+      "logoLink":"https://upload.wikimedia.org/wikipedia/en/thumb/a/aa/Indian_Institute_of_Technology_Mandi_Logo.png/220px-Indian_Institute_of_Technology_Mandi_Logo.png",
       
       "location": {
         "city": "Mandi",
@@ -811,7 +811,7 @@ const arr=[
     },
     {
       "collegeName": "Indian Institute of Technology Patna",
-      "logoLink":"https://doe.iitm.ac.in/wp-content/uploads/2021/06/245-2451831_iit-madras-logo.png",
+      "logoLink":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBrwkuniCAWPapvRKlKlU7wDq4ecsVvB4LBQ&s",
       
       "location": {
         "city": "Patna",
@@ -844,7 +844,7 @@ const arr=[
     },
     {
       "collegeName": "Indian Institute of Technology Jodhpur",
-      "logoLink":"https://doe.iitm.ac.in/wp-content/uploads/2021/06/245-2451831_iit-madras-logo.png",
+      "logoLink":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD4e8-9e4aQPavdr5rNPkhCg3qvAASLOqKRA&s",
       
       "location": {
         "city": "Jodhpur",
@@ -877,7 +877,7 @@ const arr=[
     },
     {
       "collegeName": "Indian Institute of Information Technology, Bangalore",
-      "logoLink":"https://doe.iitm.ac.in/wp-content/uploads/2021/06/245-2451831_iit-madras-logo.png",
+      "logoLink":"https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/IIIT_Bangalore_Logo.svg/1200px-IIIT_Bangalore_Logo.svg.png",
       
       "location": {
         "city": "Bangalore",
@@ -910,7 +910,7 @@ const arr=[
     },
     {
         "collegeName": "Dr. B.R. Ambedkar National Institute of Technology",
-      "logoLink":"https://doe.iitm.ac.in/wp-content/uploads/2021/06/245-2451831_iit-madras-logo.png",
+      "logoLink":"https://upload.wikimedia.org/wikipedia/en/9/96/Logo_of_NIT_Jalandhar.png",
      "location": {
         "city": "Jalandhar",
         "state": "Punjab",
@@ -942,7 +942,7 @@ const arr=[
       },
       {
         "collegeName": "Nirma University",
-        "logoLink": "https://example.com/nirma_logo.png",
+        "logoLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRu6CPuqb7dANC_NWGUv4EDzO91Frw9MDJLw&s",
         "location": {
         "city": "Ahemdabad",
         "state": "Gujarat",
@@ -974,7 +974,7 @@ const arr=[
       },
       {
         "collegeName": "Bhilai Institute of Technology",
-        "logoLink": "https://example.com/bit_logo.png",
+        "logoLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReq0S7Fqi6zpcibi6XmKhtnncWYo1HAobYPw&s",
         "location": {
           "city": "Durg",
           "state": "Chattisgarh",
@@ -1006,7 +1006,7 @@ const arr=[
       },
       {
         "collegeName": "Rajiv Gandhi Institute of Technology",
-        "logoLink": "https://example.com/rgit_logo.png",
+        "logoLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQm7-nJyCSlIDUqfNy4KatiNGrjNm3EC7Ffg&s",
         "location": {
           "city": "Mumbai",
           "state": "Maharastra",
@@ -1038,7 +1038,7 @@ const arr=[
       },
       {
         "collegeName": "NIT Warangal",
-        "logoLink": "https://example.com/nitw_logo.png",
+        "logoLink": "https://upload.wikimedia.org/wikipedia/en/f/fb/National_Institute_of_Technology%2C_Warangal_logo.png",
         "location": {
           "city": "Warangal",
           "state": "Telangana",
@@ -1075,7 +1075,7 @@ const arr=[
           "state": "Delhi",
           "country": "India"
         } ,
-        "logoLink": "https://example.com/nsit_logo.png",
+        "logoLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVGmjuEs9aZ1bXFlIPwuDxrm5b6rWf-r1_tA&s",
         "averageRating": 5.9,
         "rankings": {
           "national": {

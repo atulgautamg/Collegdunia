@@ -2,6 +2,9 @@ import React, { useEffect, useState } from 'react'
 import arr from './Data'
 import Spinner from 'react-bootstrap/Spinner';
 import Dropdown from 'react-bootstrap/Dropdown'
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import icon from './icon.svg'
+import { FaStar } from 'react-icons/fa';
 const User = () => {
     const [data1,setdata1]=useState([]);
     
@@ -156,9 +159,9 @@ const User = () => {
             
             <tr key={data.rankings.national.rank} className='tr1'>
                <td> # {data.rankings.national.rank}  </td>
-               <td className='td1'> <div className='cname'> <div className='logo1'> <div>  <img className='img1' src={data.logoLink} alt="" /></div> <div className='city1'> <div className='cname1'> <div> {data.collegeName}</div> <div className='location'>{data.location.city}, {data.location.state}   </div> </div>
+               <td className='td1'> <div className='cname'> <div className='logo1'> <div>  <img className='img1' src={data.logoLink} alt="" /></div> <div className='city1'> <div className='cname1'> <div> {data.collegeName}</div></div>
                
-               </div></div></div>  </td>
+               </div></div></div>  <div className='location'>{data.location.city}, {data.location.state}   </div>  </td>
                <td> <div className='fees'> <div> BE/Btech: <div className='blue1'> &#8377; {data.courseFees.undergraduate} <div> (1st Year Fees) </div> </div> </div>
                       <div> Mtech: <div className='blue1'>&#8377; {data.courseFees.postgraduate} <div>(1st Year Fees) </div> </div>  </div>
                       </div>
@@ -168,9 +171,9 @@ const User = () => {
                     <div> Top Recruiters: {data.placementDetails.topRecruiters.join(', ')}</div>
                     
                   </td> 
-               <td> <h3> {data.averageRating}/10 </h3>  </td>    
+               <td> <h3>  <FaStar color="yellow" />  {data.averageRating}/10 </h3>  </td>    
                <td><div> {data.rankings.global.rank} Rank In</div>
-                 <div> <img className='logoimg' src="https://st.adda247.com/https://currentaffairs.adda247.com/wp-content/uploads/multisite/sites/5/2022/06/10072125/world-university-ranking-1654760144.jpg" alt="" /> </div>
+                 <div> <img className='logoimg' src="https://st.adda247.com/https://currentaffairs.adda247.com/wp-content/uploads/multisite/sites/5/2022/06/10072125/world-university-ranking-1654760144.jpg" alt="" /> 2023 </div>
                 </td>
             </tr>
         ))}

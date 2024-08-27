@@ -12,7 +12,12 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
-
+.btn2{
+  background-color: aqua;
+}
+.btn2:hover{
+  background-color: rgb(42, 123, 210);
+}
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
