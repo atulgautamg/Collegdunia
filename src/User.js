@@ -44,6 +44,7 @@ const User = () => {
           const sorted=[...data1].sort((a,b)=>
             a[col]>b[col] ? 1 :-1
           )
+          setorder('asc');
           setdata1(sorted)
              
         }
@@ -52,6 +53,7 @@ const User = () => {
           const sorted=[...data1].sort((a,b)=>
             a[col]<b[col]? 1 :-1
           )
+          setorder("desc")
           setdata1(sorted)   
         
           
@@ -141,7 +143,7 @@ const User = () => {
    
     
     <div className='tb1'>
-    {flag1==1 ?  <div className="df1"> <h3> Sorted By: {par}</h3> <h3 className='o1'>  Order:  {order=="asc"? <h3>Ascending </h3>: <h3>descending </h3> } </h3> </div> :""}
+    {flag1==1 ?  <div className="df1"> <h3> Sorted By: {par}</h3> <h3 className='o1'>  {order=="asc"? <h3>Order: Ascending </h3>: "" } </h3> <h3 className='o1'>  {order=="desc"? <h3>Order: Descending </h3>: "" } </h3> </div> :""}
     <table>
           <thead className='t2'>
             <tr className='t2'>
