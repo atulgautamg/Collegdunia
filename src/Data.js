@@ -1107,7 +1107,7 @@ const arr=[
           "state": "Bengal",
           "country": "India"
         } ,
-        "logoLink": "https://example.com/iiest_logo.png",
+        "logoLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOxJU-TqO-IVKl_NyUf1wcEpsjuV_pqR4c-w&s",
         "averageRating": 5.8,
         "rankings": {
           "national": {
@@ -1139,7 +1139,7 @@ const arr=[
           "state": "Tamil Nadu",
           "country": "India"
         } ,
-        "logoLink": "https://example.com/vitap_logo.png",
+        "logoLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2vgn5Cj83ERlIbXqZRI400ocOEbaXn3IibQ&s",
         "averageRating": 5.7,
         "rankings": {
           "national": {
@@ -1171,7 +1171,7 @@ const arr=[
           "state": "Karnataka",
           "country": "India"
         } ,
-        "logoLink": "https://example.com/mit_logo.png",
+        "logoLink": "https://highereducationplus.com/wp-content/uploads/2023/05/mani.jpg",
         "averageRating": 5.6,
         "rankings": {
           "national": {
@@ -1198,7 +1198,7 @@ const arr=[
       },
       {
         "collegeName": "Shivaji University",
-        "logoLink": "https://example.com/shivaji_logo.png",
+        "logoLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu50J4kzSiacgx4ryw5ksK0Ls1JgogERrm_w&s",
         "location": {
           "city": "Kolhapur",
           "state": "Maharastra",
@@ -1235,7 +1235,7 @@ const arr=[
           "state": "Gujarat",
           "country": "India"
         } ,
-        "logoLink": "https://example.com/da_iict_logo.png",
+        "logoLink": "https://upload.wikimedia.org/wikipedia/en/b/b1/Dhirubhai_Ambani_Institute_of_Information_and_Communication_Technology_logo.png",
         "averageRating": 5.4,
         "rankings": {
           "national": {
@@ -1262,7 +1262,7 @@ const arr=[
       },
       {
         "collegeName": "Institute of Technology, Nirma University",
-        "logoLink": "https://example.com/it_nirma_logo.png",
+        "logoLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_3UrWeBbxNodfhGqRX1Lb594XeWyzVeOfuw&s",
         "location": {
           "city": "Ahemdabad",
           "state": "Gujarat",
@@ -1294,7 +1294,7 @@ const arr=[
       },
       {
         "collegeName": "GITAM Institute of Technology",
-        "logoLink": "https://example.com/gitam_logo.png",
+        "logoLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQGVi9om8za0A946Hld4dy0PFlBxtHw9d7dg&s",
         "location": {
           "city": "Vishakapatnam",
           "state": "Andhra Pradesh",
@@ -1326,7 +1326,7 @@ const arr=[
       },
       {
         "collegeName": "Amrita Vishwa Vidyapeetham",
-        "logoLink": "https://example.com/amrita_logo.png",
+        "logoLink": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Amrita_Vishwa_Vidyapeetham_-_Logo_Icon.svg/1200px-Amrita_Vishwa_Vidyapeetham_-_Logo_Icon.svg.png",
         "location": {
           "city": "Fridabad",
           "state": "Haryana",
@@ -1358,7 +1358,7 @@ const arr=[
       },
       {
         "collegeName": "Bennett University",
-        "logoLink": "https://example.com/bennett_logo.png",
+        "logoLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA6XPhjAma9jTxJXEAzNwYmmdDos6oKV_7Bw&s",
         "location": {
           "city": "Greater Noida",
           "state": "Uttar Pradesh",
@@ -1395,7 +1395,7 @@ const arr=[
           "state": "Sikkim",
           "country": "India"
         } ,
-        "logoLink": "https://example.com/smit_logo.png",
+        "logoLink": "https://pbs.twimg.com/profile_images/1163330571671498752/wnsl9EWx_400x400.jpg",
         "averageRating": 4.9,
         "rankings": {
           "national": {
@@ -1427,7 +1427,7 @@ const arr=[
           "state": "Chandigarh",
           "country": "India"
         } ,
-        "logoLink": "https://example.com/chitkara_logo.png",
+        "logoLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj_g610laomkJdWey7TUHRDQgWkhg2KwHP_w&s",
         "averageRating": 4.8,
         "rankings": {
           "national": {
@@ -1454,7 +1454,7 @@ const arr=[
       },
       {
         "collegeName": "Harcourt Butler Technical University",
-        "logoLink": "https://example.com/hbtu_logo.png",
+        "logoLink": "https://upload.wikimedia.org/wikipedia/en/2/20/Harcourt_Butler_Technical_University_Logo_SSH.png",
         "location": {
           "city": "Kanpur",
           "state": "Uttar Pradesh",
@@ -1486,7 +1486,7 @@ const arr=[
       },
       {
         "collegeName": "NIT Kurukshetra",
-        "logoLink": "https://example.com/nitk_logo.png",
+        "logoLink": "https://upload.wikimedia.org/wikipedia/en/7/75/National_Institute_of_Technology%2C_Kurukshetra_Logo.png",
         "location": {
           "city": "Kurukshetra",
           "state": "Haryana",
@@ -1523,7 +1523,7 @@ const arr=[
           "state": "West Bengal",
           "country": "India"
         } ,
-        "logoLink": "https://example.com/nitd_logo.png",
+        "logoLink": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/NIT_Durgapur_Logo.svg/800px-NIT_Durgapur_Logo.svg.png",
         "averageRating": 4.5,
         "rankings": {
           "national": {
@@ -1555,7 +1555,7 @@ const arr=[
           "state": "Punjab",
           "country": "India"
         } ,
-        "logoLink": "https://example.com/nitj_logo.png",
+        "logoLink": "https://upload.wikimedia.org/wikipedia/en/9/96/Logo_of_NIT_Jalandhar.png",
         "averageRating": 4.4,
         "rankings": {
           "national": {
@@ -1588,7 +1588,7 @@ const arr=[
           "state": "Himachal Pradesh",
           "country": "India"
         } ,
-        "logoLink": "https://example.com/nith_logo.png",
+        "logoLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWvEFcF9ilnWkb-a11vGBn1BkIXw2UUsBpsg&s",
         "averageRating": 4.3,
         "rankings": {
           "national": {
